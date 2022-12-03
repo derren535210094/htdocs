@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/water.css">
+    <script src="https://unpkg.com/just-validate@latest/dist/just-validate.production.min.js" defer></script>
+    <script src="/js/validation.js" defer></script>
+
+    <script type='text/javascript'>
+        window.history.pushState({
+            page: 1
+        }, "", "");
+
+        window.onpopstate = function (event) {
+            if (event) {
+                window.location.href = 'signup.html';
+            }
+        }
+
+
+        function myFunction() {
+            var isFired = localStorage.getItem('checkFired');
+            if (isFired != '1') {
+                alert(
+                    "DIBUAT OLEH KELOMPOK 1 \n\n 1. Lutfiana Sinta Lestari - 535210065 \n 2. Daniel Kristianto - 535210076 \n 3. Derren Fusta - 535210094 \n 4. Aditya Ardiansyah - 535210106"
+                    );
+                localStorage.setItem('checkFired', '1');
+            }
+        }
+    </script>
+
+    <style>
+        body{
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position-y: -125px;
+            text-align: center;
+            color: white;
+        }
+        .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#logins:hover{
+    color: yellow;
+}
+    </style>
+
+    <title>Signup: Indo Classroom</title>
+
+</head>
+
+<body onload="myFunction()" style="background-image: url(https://drive.google.com/uc?id=1FyiF5ImYT6vaDj_PspzygQq8-nrmGB_x);">
+
+    <h1 style="color: white">Signup</h1>
+
+    <form action="process-signup.php" method="post" id="signup" novalidate>
+        <div><br>
+            <label for="name">Name</label>
+            <input class="center" type="text" id="name" name="name"><br>
+        </div>
+
+        <div>
+            <label for="email">email</label>
+            <input class="center" type="email" id="email" name="email"><br>
+        </div>
+
+        <div>
+            <label for="password">Password</label>
+            <input class="center" type="password" id="password" name="password"><br>
+        </div>
+
+        <div>
+            <label for="password_confirmation">Repeat password</label>
+            <input class="center" type="password" id="password_confirmation" name="password_confirmation"><br>
+        </div>
+
+        <button>Sign up</button><br><br>
+
+        <label>Already have an account? <a id="logins" href="login.php">Log in</a></label>
+
+    </form>
+</body>
+
+</html>

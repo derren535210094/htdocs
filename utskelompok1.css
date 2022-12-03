@@ -1,0 +1,2423 @@
+#kelas1{
+    margin-top: 83px;
+    padding: 10px;
+    margin-left: 25px;
+    margin-right: 936px;
+    
+    border: 1.5px solid;
+    border-color: #e3e5e8;
+    border-radius: 10px;
+    
+    color: white;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bold;
+    transition: 0.1s;
+}
+
+body{
+    max-width:1265px;
+    min-width: 1265px;
+    
+}
+
+#putih{
+    background-position: 397px 0%;
+    background-position-y: 1.5px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+   margin-left: -10px;
+   margin-right: -10px;
+   margin-top: -10px;
+}
+
+.kelas1{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-size: 385px;
+}
+
+#atas{
+    z-index: 1;
+    background-color: white;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
+
+#garis{
+    max-width:10000px;
+    margin-top: 53px;
+    border: 1.3px solid;
+    border-color: #e3e5e8;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+#judul{
+    color: #5f6368;
+    margin: -37px;
+    margin-left: -16px;
+    font-family: 'Roboto', sans-serif;
+    padding-left: 135px;
+    font-size: 25px;
+}
+
+#judul2{
+    font-family: 'Roboto', sans-serif;
+    padding-left: 65px;
+    padding-top: 10px;
+    font-size: 25px;
+}
+
+#calender{
+    z-index: -1;
+    position: absolute;
+    margin-top: -20px;
+    margin-left: -64px;
+    fill: #1a73e8;
+}
+
+#kalenderss{
+    z-index: -1;
+    position: absolute;
+    margin-top: -23px;
+    margin-left: -39px;
+}
+
+#kotcal{
+    position: absolute;
+    margin: 19px;
+    margin-left: 312px;
+    padding-right: 30px;
+    padding-left: 70px;
+    padding-top: 30px;
+    padding-bottom: 5px;
+    border: 2px solid;
+    border-color: transparent;
+    border-radius: 5px;
+}
+
+#kotcal:hover{
+    z-index: 0;
+    background-color: #f6f9fe;
+
+}
+
+#logoakun{
+    right: 115px;
+    top: 17px;
+    position: absolute;
+    z-index: 1;
+}
+
+#test{
+    margin-left: -6px;
+}
+
+#kelas1part2{
+    padding-left: 16px;
+    font-weight: normal; 
+}
+
+#mat{
+    padding-top: 10px;
+    padding-left: 16px;
+}
+
+#bawah1{
+    background-color: white;
+    width: 301px;
+    padding-bottom: 40px;
+    margin: -5px;
+    margin-left: 0px;
+    margin-bottom: -10px;
+    border-bottom-left-radius: 8.5px;
+    border-bottom-right-radius: 8.5px;
+    
+}
+
+#hr1{
+border-bottom: 1.5px solid #dadce0;
+padding-top: 150px;
+}
+
+#group1{
+    font-style: normal;
+    font-family: 'Urbanist', sans-serif;
+    margin-top: 5px;
+    padding-bottom: 15px;
+    font-weight: normal;
+}
+
+#jer{
+    padding-left: 16px;
+}
+
+#photo1{
+  position: absolute;
+  flex: none;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-left: 205px;
+  margin: -40px;
+  margin-left: 200px;
+  transition: 0.3s;
+}
+
+#photo1:hover {
+    opacity: 0.9;
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+    
+
+#kelas1:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    cursor:pointer;
+}
+
+#mat:hover{
+    text-decoration:underline;
+}
+#kelas1part2:hover{
+    cursor: default;
+}
+
+#group1:hover{
+    text-decoration:underline;
+    
+}
+
+#photopro{
+    flex: none;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+
+#kelas2{
+    margin-top: -290px;
+    padding: 10px;
+    margin-left: 350px;
+    margin-right: 611px;
+    
+    border: 1.5px solid;
+    border-color: #e3e5e8;
+    border-radius: 10px;
+    
+    color: white;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bold;
+    transition: 0.1s;
+}
+
+#kelas2part2{
+    padding-left: 16px;
+    font-weight: normal; 
+}
+
+.kelas2{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-size: 385px;
+}
+
+#putih2{
+    background-position: 385px 2%;
+    background-position-y: 0px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+   margin-left: -10px;
+   margin-right: -10px;
+   margin-top: -10px;
+}
+
+#ekonomi{
+    padding-top: 10px;
+    padding-left: 16px;
+}
+
+#bawah2{
+    background-color: white;
+    width: 301px;
+    padding-bottom: 40px;
+    margin: -5px;
+    margin-left: 0px;
+    margin-bottom: -10px;
+    border-bottom-left-radius: 8.5px;
+    border-bottom-right-radius: 8.5px;
+}
+
+#hr2{
+border-bottom: 1.5px solid #dadce0;
+padding-top: 150px;
+}
+
+#group2{
+    font-style: normal;
+    font-family: 'Urbanist', sans-serif;
+    margin-top: 5px;
+    padding-bottom: 15px;
+    font-weight: normal;
+}
+
+#maud{
+    padding-left: 16px;
+}
+
+#photo2{
+  position: absolute;
+  flex: none;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  object-fit:cover;
+  object-position: 0px 20%;
+  margin-left: 205px;
+  margin: -40px;
+  margin-left: 200px;
+  transition: 0.3s;
+}
+
+#photo2:hover {
+    opacity: 0.9;
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+#kelas2:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    cursor:pointer;
+}
+
+#ekonomi:hover{
+    text-decoration:underline;
+}
+#kelas2part2:hover{
+    cursor: default;
+}
+
+#group2:hover{
+    text-decoration:underline;
+    
+}
+
+
+
+#kelas3{
+    margin-top: -290px;
+    padding: 10px;
+    margin-left: 675px;
+    margin-right: 286px;
+    
+    border: 1.5px solid;
+    border-color: #e3e5e8;
+    border-radius: 10px;
+    
+    color: white;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bold;
+    transition: 0.1s;
+}
+
+#kelas3part2{
+    padding-left: 16px;
+    font-weight: normal; 
+}
+
+#komp{
+    padding-top: 10px;
+    padding-left: 16px;
+}
+
+#putih3{
+    background-position: 367px 0%;
+    background-position-y: 0px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+   margin-left: -10px;
+   margin-right: -10px;
+   margin-top: -10px;
+}
+
+#bawah3{
+    background-color: white;
+    width: 301px;
+    padding-bottom: 40px;
+    margin: -5px;
+    margin-left: 0px;
+    margin-bottom: -10px;
+    border-bottom-left-radius: 8.5px;
+    border-bottom-right-radius: 8.5px;
+}
+
+#hr3{
+border-bottom: 1.5px solid #dadce0;
+padding-top: 150px;
+}
+
+#group3{
+    font-style: normal;
+    font-family: 'Urbanist', sans-serif;
+    margin-top: 5px;
+    padding-bottom: 15px;
+    font-weight: normal;
+}
+
+#nad{
+    padding-left: 16px;
+}
+
+#photo3{
+  position: absolute;
+  flex: none;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  object-fit:cover;
+  object-position: -10px 20%;
+  margin-left: 205px;
+  margin: -40px;
+  margin-left: 200px;
+  transition: 0.3s;
+}
+
+#photo3:hover {
+    opacity: 0.9;
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+#kelas3:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    cursor:pointer;
+}
+
+#komp:hover{
+    text-decoration:underline;
+}
+#kelas3part2:hover{
+    cursor: default;
+}
+
+#group3:hover{
+    text-decoration:underline;
+    
+}
+
+
+
+
+#kelas4{
+    margin-top: 20px;
+    padding: 10px;
+    margin-left: 25px;
+    margin-right: 936px;
+    
+    border: 1.5px solid;
+    border-color: #e3e5e8;
+    border-radius: 10px;
+    
+    background-size: 385px;
+    color: white;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bold;
+    transition: 0.1s;
+}
+
+#kelas4part2{
+    padding-left: 16px;
+    font-weight: normal; 
+}
+
+.kelas4{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-size: 385px;
+}
+
+#ekon{
+    padding-top: 10px;
+    padding-left: 16px;
+}
+
+#putih4{
+    background-position: 367px 0%;
+    background-position-y: 0px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+   margin-left: -10px;
+   margin-right: -10px;
+   margin-top: -10px;
+}
+
+#bawah4{
+    background-color: white;
+    width: 301px;
+    padding-bottom: 40px;
+    margin: -5px;
+    margin-left: 0px;
+    margin-bottom: -10px;
+    border-bottom-left-radius: 8.5px;
+    border-bottom-right-radius: 8.5px;
+}
+
+#hr4{
+border-bottom: 1.5px solid #dadce0;
+padding-top: 150px;
+}
+
+#group4{
+    font-style: normal;
+    font-family: 'Urbanist', sans-serif;
+    margin-top: 5px;
+    padding-bottom: 15px;
+    font-weight: normal;
+}
+
+#tas{
+    padding-left: 16px;
+}
+
+#photo4{
+  position: absolute;
+  flex: none;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  object-fit:cover;
+  object-position: -25px 20%;
+  margin-left: 205px;
+  margin: -40px;
+  margin-left: 200px;
+  transition: 0.3s;
+}
+
+#photo4:hover {
+    opacity: 0.9;
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+#kelas4:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    cursor:pointer;
+}
+
+#ekon:hover{
+    text-decoration:underline;
+}
+#kelas4part2:hover{
+    cursor: default;
+}
+
+#group4:hover{
+    text-decoration:underline;
+    
+}
+
+
+
+#kelas5{
+    margin-top: -292px;
+    padding: 10px;
+    margin-left: 350px;
+    margin-right: 611px;
+    
+    border: 1.5px solid;
+    border-color: #e3e5e8;
+    border-radius: 10px;
+    
+    background-size: 385px;
+    color: white;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bold;
+    transition: 0.1s;
+}
+
+#kelas5part2{
+    padding-left: 16px;
+    font-weight: normal; 
+}
+
+.kelas5{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-size: 385px;
+}
+
+#putih5{
+    background-position: 367px 0%;
+    background-position-y: 0px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+   margin-left: -10px;
+   margin-right: -10px;
+   margin-top: -10px;
+}
+
+#pkwu{
+    padding-top: 10px;
+    padding-left: 16px;
+}
+
+#bawah5{
+    background-color: white;
+    width: 301px;
+    padding-bottom: 40px;
+    margin: -5px;
+    margin-left: 0px;
+    margin-bottom: -10px;
+    border-bottom-left-radius: 8.5px;
+    border-bottom-right-radius: 8.5px;
+}
+
+#hr5{
+border-bottom: 1.5px solid #dadce0;
+padding-top: 150px;
+}
+
+#group5{
+    font-style: normal;
+    font-family: 'Urbanist', sans-serif;
+    margin-top: 5px;
+    padding-bottom: 15px;
+    font-weight: normal;
+}
+
+#san{
+    padding-left: 16px;
+}
+
+#photo5{
+  position: absolute;
+  flex: none;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  object-fit:cover;
+  object-position: -30px 20%;
+  margin-left: 205px;
+  margin: -40px;
+  margin-left: 200px;
+  transition: 0.3s;
+}
+
+#photo5:hover {
+    opacity: 0.9;
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+#kelas5:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    cursor:pointer;
+}
+
+#pkwu:hover{
+    text-decoration:underline;
+}
+#kelas5part2:hover{
+    cursor: default;
+}
+
+#group5:hover{
+    text-decoration:underline;
+    
+}
+
+
+
+#kelas6{
+    margin-top: -292px;
+    padding: 10px;
+    margin-left: 675px;
+    margin-right: 286px;
+    
+    border: 1.5px solid;
+    border-color: #e3e5e8;
+    border-radius: 10px;
+    
+    background-size: 385px;
+    color: white;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bold;
+    transition: 0.1s;
+}
+
+#kelas6part2{
+    padding-left: 16px;
+    font-weight: normal; 
+}
+
+#bi{
+    padding-top: 10px;
+    padding-left: 16px;
+}
+
+.kelas6{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-size: 385px;
+}
+
+#bawah6{
+    background-color: white;
+    width: 301px;
+    padding-bottom: 40px;
+    margin: -5px;
+    margin-left: 0px;
+    margin-bottom: -10px;
+    border-bottom-left-radius: 8.5px;
+    border-bottom-right-radius: 8.5px;
+}
+
+#putih6{
+    background-position: 367px 0%;
+    background-position-y: 0px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+   margin-left: -10px;
+   margin-right: -10px;
+   margin-top: -10px;
+}
+
+#hr6{
+border-bottom: 1.5px solid #dadce0;
+padding-top: 150px;
+}
+
+#group6{
+    font-style: normal;
+    font-family: 'Urbanist', sans-serif;
+    margin-top: 5px;
+    padding-bottom: 15px;
+    font-weight: normal;
+}
+
+#naj{
+    padding-left: 16px;
+}
+
+#photo6{
+  position: absolute;
+  flex: none;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  object-fit:cover;
+  object-position: 0px 30%;
+  margin-left: 205px;
+  margin: -40px;
+  margin-left: 200px;
+  transition: 0.3s;
+}
+
+#photo6:hover {
+    opacity: 0.9;
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+#kelas6:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    cursor:pointer;
+}
+
+#bi:hover{
+    text-decoration:underline;
+}
+#kelas6part2:hover{
+    cursor: default;
+}
+
+#group6:hover{
+    text-decoration:underline;
+    
+}
+
+
+
+
+#kelas7{
+    margin-top: 25px;
+    padding: 10px;
+    margin-left: 25px;
+    margin-right: 936px;
+    
+    border: 1.5px solid;
+    border-color: #e3e5e8;
+    border-radius: 10px;
+    
+    background-size: 385px;
+    color: white;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bold;
+    transition: 0.1s;
+}
+
+#kelas7part2{
+    padding-left: 16px;
+    font-weight: normal; 
+}
+
+.kelas7{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-size: 385px;
+}
+
+#pkn{
+    padding-top: 10px;
+    padding-left: 16px;
+}
+
+#putih7{
+    background-position: 367px 0%;
+    background-position-y: 0px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+   margin-left: -10px;
+   margin-right: -10px;
+   margin-top: -10px;
+}
+
+#bawah7{
+    background-color: white;
+    width: 301px;
+    padding-bottom: 40px;
+    margin: -5px;
+    margin-left: 0px;
+    margin-bottom: -10px;
+    border-bottom-left-radius: 8.5px;
+    border-bottom-right-radius: 8.5px;
+}
+
+#hr7{
+border-bottom: 1.5px solid #dadce0;
+padding-top: 150px;
+}
+
+#group7{
+    font-style: normal;
+    font-family: 'Urbanist', sans-serif;
+    margin-top: 5px;
+    padding-bottom: 15px;
+    font-weight: normal;
+}
+
+#par{
+    padding-left: 16px;
+}
+
+#photo7{
+  position: absolute;
+  flex: none;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  object-fit:cover;
+  object-position: -10px 20%;
+  margin-left: 205px;
+  margin: -40px;
+  margin-left: 200px;
+  transition: 0.3s;
+}
+
+#photo7:hover {
+    opacity: 0.9;
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+#kelas7:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    cursor:pointer;
+}
+
+#pkn:hover{
+    text-decoration:underline;
+}
+#kelas7part2:hover{
+    cursor: default;
+}
+
+#group7:hover{
+    text-decoration:underline;
+    
+}
+
+
+
+
+#kelas8{
+    margin-top: -292px;
+    padding: 10px;
+    margin-left: 350px;
+    margin-right: 611px;
+    
+    border: 1.5px solid;
+    border-color: #e3e5e8;
+    border-radius: 10px;
+    
+    background-size: 385px;
+    color: white;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bold;
+    transition: 0.1s;
+}
+
+#kelas8part2{
+    padding-left: 16px;
+    font-weight: normal; 
+}
+
+.kelas8{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-size: 385px;
+}
+
+#putih8{
+    background-position: 367px 0%;
+    background-position-y: 0px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+   margin-left: -10px;
+   margin-right: -10px;
+   margin-top: -10px;
+}
+
+#or{
+    padding-top: 10px;
+    padding-left: 16px;
+}
+
+#bawah8{
+    background-color: white;
+    width: 301px;
+    padding-bottom: 40px;
+    margin: -5px;
+    margin-left: 0px;
+    margin-bottom: -10px;
+    border-bottom-left-radius: 8.5px;
+    border-bottom-right-radius: 8.5px;
+}
+
+#hr8{
+border-bottom: 1.5px solid #dadce0;
+padding-top: 150px;
+}
+
+#group8{
+    font-style: normal;
+    font-family: 'Urbanist', sans-serif;
+    margin-top: 5px;
+    padding-bottom: 15px;
+    font-weight: normal;
+}
+
+#ded{
+    padding-left: 16px;
+}
+
+#photo8{
+  position: absolute;
+  flex: none;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  object-fit:cover;
+  object-position: 0px 0%;
+  margin-left: 205px;
+  margin: -40px;
+  margin-left: 200px;
+  transition: 0.3s;
+}
+
+#photo8:hover {
+    opacity: 0.9;
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+#kelas8:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    cursor:pointer;
+}
+
+#or:hover{
+    text-decoration:underline;
+}
+#kelas8part2:hover{
+    cursor: default;
+}
+
+#group8:hover{
+    text-decoration:underline;
+    
+}
+
+
+
+#kelas9{
+    margin-top: -292px;
+    padding: 10px;
+    margin-left: 675px;
+    margin-right: 286px;
+    
+    border: 1.5px solid;
+    border-color: #e3e5e8;
+    border-radius: 10px;
+    
+    background-size: 385px;
+    color: white;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bold;
+    transition: 0.1s;
+}
+
+#kelas9part2{
+    padding-left: 16px;
+    font-weight: normal; 
+}
+
+#sen{
+    padding-top: 10px;
+    padding-left: 16px;
+}
+
+.kelas9{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-size: 385px;
+}
+
+#bawah9{
+    background-color: white;
+    width: 301px;
+    padding-bottom: 40px;
+    margin: -5px;
+    margin-left: 0px;
+    margin-bottom: -10px;
+    border-bottom-left-radius: 8.5px;
+    border-bottom-right-radius: 8.5px;
+}
+
+#putih9{
+    background-position: 367px 0%;
+    background-position-y: 0px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+   margin-left: -10px;
+   margin-right: -10px;
+   margin-top: -10px;
+}
+
+#hr9{
+border-bottom: 1.5px solid #dadce0;
+padding-top: 150px;
+}
+
+#group9{
+    font-style: normal;
+    font-family: 'Urbanist', sans-serif;
+    margin-top: 5px;
+    padding-bottom: 15px;
+    font-weight: normal;
+}
+
+#dian{
+    padding-left: 16px;
+}
+
+#photo9{
+  position: absolute;
+  flex: none;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  object-fit:cover;
+  object-position: -25px 20%;
+  margin-left: 205px;
+  margin: -40px;
+  margin-left: 200px;
+  transition: 0.3s;
+}
+
+#photo9:hover {
+    opacity: 0.9;
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+#kelas9:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    cursor:pointer;
+}
+
+#sen:hover{
+    text-decoration:underline;
+}
+#kelas9part2:hover{
+    cursor: default;
+}
+
+#group9:hover{
+    text-decoration:underline;
+    
+}
+
+
+
+
+#kelas10{
+    margin-top: 25px;
+    padding: 10px;
+    margin-left: 25px;
+    margin-right: 936px;
+    
+    border: 1.5px solid;
+    border-color: #e3e5e8;
+    border-radius: 10px;
+    
+    background-size: 385px;
+    color: white;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bold;
+    transition: 0.1s;
+}
+
+#kelas10part2{
+    padding-left: 16px;
+    font-weight: normal; 
+}
+
+.kelas10{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-size: 385px;
+}
+
+#fis{
+    padding-top: 10px;
+    padding-left: 16px;
+}
+
+#putih10{
+    background-position: 367px 0%;
+    background-position-y: 0px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+   margin-left: -10px;
+   margin-right: -10px;
+   margin-top: -10px;
+}
+
+#bawah10{
+    background-color: white;
+    width: 301px;
+    padding-bottom: 40px;
+    margin: -5px;
+    margin-left: 0px;
+    margin-bottom: -10px;
+    border-bottom-left-radius: 8.5px;
+    border-bottom-right-radius: 8.5px;
+}
+
+#hr10{
+border-bottom: 1.5px solid #dadce0;
+padding-top: 150px;
+}
+
+#group10{
+    font-style: normal;
+    font-family: 'Urbanist', sans-serif;
+    margin-top: 5px;
+    padding-bottom: 15px;
+    font-weight: normal;
+}
+
+#riz{
+    padding-left: 16px;
+}
+
+#photo10{
+  position: absolute;
+  flex: none;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  object-fit:cover;
+  object-position: -30px 20%;
+  margin-left: 205px;
+  margin: -40px;
+  margin-left: 200px;
+  transition: 0.3s;
+}
+
+#photo10:hover {
+    opacity: 0.9;
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+#kelas10:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    cursor:pointer;
+}
+
+#fis:hover{
+    text-decoration:underline;
+}
+#kelas10part2:hover{
+    cursor: default;
+}
+
+#group10:hover{
+    text-decoration:underline;
+    
+}
+
+
+
+
+#kelas11{
+    margin-top: -292px;
+    padding: 10px;
+    margin-left: 350px;
+    margin-right: 611px;
+    
+    border: 1.5px solid;
+    border-color: #e3e5e8;
+    border-radius: 10px;
+    
+    background-size: 385px;
+    color: white;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bold;
+    transition: 0.1s;
+}
+
+#kelas11part2{
+    padding-left: 16px;
+    font-weight: normal; 
+}
+
+.kelas11{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-size: 385px;
+}
+
+#putih11{
+    background-position: 367px 0%;
+    background-position-y: 0px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+   margin-left: -10px;
+   margin-right: -10px;
+   margin-top: -10px;
+}
+
+#sej{
+    padding-top: 10px;
+    padding-left: 16px;
+}
+
+#bawah11{
+    background-color: white;
+    width: 301px;
+    padding-bottom: 40px;
+    margin: -5px;
+    margin-left: 0px;
+    margin-bottom: -10px;
+    border-bottom-left-radius: 8.5px;
+    border-bottom-right-radius: 8.5px;
+}
+
+#hr11{
+border-bottom: 1.5px solid #dadce0;
+padding-top: 150px;
+}
+
+#group11{
+    font-style: normal;
+    font-family: 'Urbanist', sans-serif;
+    margin-top: 5px;
+    padding-bottom: 15px;
+    font-weight: normal;
+}
+
+#jj{
+    padding-left: 16px;
+}
+
+#photo11{
+  position: absolute;
+  flex: none;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  object-fit:cover;
+  object-position: 0px 0%;
+  margin-left: 205px;
+  margin: -40px;
+  margin-left: 200px;
+  transition: 0.3s;
+}
+
+#photo11:hover {
+    opacity: 0.9;
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+#kelas11:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    cursor:pointer;
+}
+
+#sej:hover{
+    text-decoration:underline;
+}
+#kelas11part2:hover{
+    cursor: default;
+}
+
+#group11:hover{
+    text-decoration:underline;
+    
+}
+
+
+
+#kelas12{
+    margin-top: -292px;
+    padding: 10px;
+    margin-left: 675px;
+    margin-right: 286px;
+    
+    border: 1.5px solid;
+    border-color: #e3e5e8;
+    border-radius: 10px;
+    
+    background-size: 385px;
+    color: white;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bold;
+    transition: 0.1s;
+}
+
+#kelas12part2{
+    padding-left: 16px;
+    font-weight: normal; 
+}
+
+#mus{
+    padding-top: 10px;
+    padding-left: 16px;
+}
+
+.kelas12{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-size: 385px;
+}
+
+#bawah12{
+    background-color: white;
+    width: 301px;
+    padding-bottom: 40px;
+    margin: -5px;
+    margin-left: 0px;
+    margin-bottom: -10px;
+    border-bottom-left-radius: 8.5px;
+    border-bottom-right-radius: 8.5px;
+}
+
+#putih12{
+    background-position: 367px 0%;
+    background-position-y: 0px;
+    border-top-left-radius: 9px;
+    border-top-right-radius: 9px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+   margin-left: -10px;
+   margin-right: -10px;
+   margin-top: -10px;
+}
+
+#hr12{
+border-bottom: 1.5px solid #dadce0;
+padding-top: 150px;
+}
+
+#group12{
+    font-style: normal;
+    font-family: 'Urbanist', sans-serif;
+    margin-top: 5px;
+    padding-bottom: 15px;
+    font-weight: normal;
+}
+
+#pam{
+    padding-left: 16px;
+}
+
+#photo12{
+  position: absolute;
+  flex: none;
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  object-fit:cover;
+  object-position: -25px 20%;
+  margin-left: 205px;
+  margin: -40px;
+  margin-left: 200px;
+  transition: 0.3s;
+}
+
+#photo12:hover {
+    opacity: 0.9;
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+#kelas12:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    cursor:pointer;
+}
+
+.modal11 {
+    display: none;
+    position: fixed; 
+    z-index: 1; 
+    padding-top: 100px; 
+    left: 0;
+    top: 0;
+    width: 100%; 
+    height: 100%; 
+    overflow: auto; 
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.9); 
+  }
+  
+  
+  .modalcontent {
+    margin: auto;
+    margin-top: -70px;
+    display: block;
+    width: 80%;
+    max-width: 600px;
+    max-height: 550px;
+  }
+  
+  
+  #caption11 {
+    margin: auto;
+    display: block;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #ccc;
+    padding: 10px 0;
+    height: 150px;
+  }
+  
+  
+  .modalcontent, #caption11 {  
+    animation-name: zoomm;
+    animation-duration: 0.6s;
+  }
+  
+  @keyframes zoomm {
+    from {transform: scale(0.1)} 
+    to {transform: scale(1)}
+  }
+  
+  .close11 {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #f1f1f1;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+  }
+  
+  .close11:hover,
+  .close11:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  @media only screen and (max-width: 700px){
+    .modalcontent {
+      width: 100%;
+    }
+  }
+
+#mus:hover{
+    text-decoration:underline;
+}
+#kelas12part2:hover{
+    cursor: default;
+}
+
+#group12:hover{
+    text-decoration:underline;
+    
+}
+
+
+
+
+
+#matnama{
+    color: #404447;
+    font-size: 15px;
+    margin-top: 15px;
+    margin-left: 55px;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+
+#matkelas{
+    color: #63676c;
+    margin-top: -15px;
+    font-size: 12px;
+    margin-left: 55px;
+    font-family: 'Urbanist', sans-serif;
+    
+}
+
+#matnama span:hover, #matkelas span:hover{
+    cursor: pointer;
+    text-decoration: underline;
+} 
+
+#garismat{
+    max-width:10000px;
+    margin-top: 13px;
+    border: 1.3px solid;
+    border-color: #e3e5e8;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+#streammat{
+    margin-bottom: 13px;
+}
+
+
+#streamm{
+    z-index: -1;
+    color: #63676c;
+    margin-top: -15px;
+    font-size: 15px;
+    margin-left: -92px;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bold;
+   margin-bottom: 20px;
+}
+
+#kotstreamm{
+    position: absolute;
+    padding-left: 115px;
+    margin-left: 385px;
+    margin-right: 760px;
+    border: 2px solid;
+    border-color: transparent;
+    padding-top: 40px;
+    margin-top: -40px;
+    
+}
+
+#kotstreamm:hover{
+    z-index: 0;
+    background-color: #f8f4f4;
+
+}
+
+#orangmat{
+    z-index: -1;
+    color: #63676c;
+    margin-top: -15px;
+    font-size: 15px;
+    margin-left: 25px;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bold;
+    margin-bottom: 20px;
+    margin-left: -90px;
+}
+
+#kotmat{
+    position: absolute;
+    border: 2px solid;
+    border-color: transparent;
+    padding-top: 40px;
+    margin-top: -40px;
+    padding-left: 115px;
+    margin-left: 500px;
+    padding-right: 0px;
+    
+}
+
+#kotmat:hover{
+    z-index: 0;
+    background-color: #f8f4f4;
+
+}
+
+
+#walmat{
+    margin-top: 25px;
+    margin-left: 84px;
+    margin-right: 200px;
+    padding-top: 240px;
+    border: 0px solid;
+    border-radius: 10px;
+
+    background-image: url("https://gstatic.com/classroom/themes/Math_thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#waling{
+    margin-top: 25px;
+    margin-left: 84px;
+    margin-right: 200px;
+    padding-top: 240px;
+    border: 0px solid;
+    border-radius: 10px;
+
+    background-image: url("https://gstatic.com/classroom/themes/USHistory_thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#walkom{
+    margin-top: 25px;
+    margin-left: 84px;
+    margin-right: 200px;
+    padding-top: 240px;
+    border: 0px solid;
+    border-radius: 10px;
+
+    background-image: url("https://gstatic.com/classroom/themes/img_code_thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#walekon{
+    margin-top: 25px;
+    margin-left: 84px;
+    margin-right: 200px;
+    padding-top: 240px;
+    border: 0px solid;
+    border-radius: 10px;
+
+    background-image: url("https://gstatic.com/classroom/themes/Economics_thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#walpkwu{
+    margin-top: 25px;
+    margin-left: 84px;
+    margin-right: 200px;
+    padding-top: 240px;
+    border: 0px solid;
+    border-radius: 10px;
+
+    background-image: url("https://gstatic.com/classroom/themes/img_breakfast_thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#walbi{
+    margin-top: 25px;
+    margin-left: 84px;
+    margin-right: 200px;
+    padding-top: 240px;
+    border: 0px solid;
+    border-radius: 10px;
+
+    background-image: url("https://gstatic.com/classroom/themes/LanguageArts_thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#walpkn{
+    margin-top: 25px;
+    margin-left: 84px;
+    margin-right: 200px;
+    padding-top: 240px;
+    border: 0px solid;
+    border-radius: 10px;
+
+    background-image: url("https://gstatic.com/classroom/themes/img_reachout_thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#walor{
+    margin-top: 25px;
+    margin-left: 84px;
+    margin-right: 200px;
+    padding-top: 240px;
+    border: 0px solid;
+    border-radius: 10px;
+
+    background-image: url("https://gstatic.com/classroom/themes/img_boxing_thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#walsenbud{
+    margin-top: 25px;
+    margin-left: 84px;
+    margin-right: 200px;
+    padding-top: 240px;
+    border: 0px solid;
+    border-radius: 10px;
+
+    background-image: url("https://gstatic.com/classroom/themes/img_arts_thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#walfisika{
+    margin-top: 25px;
+    margin-left: 84px;
+    margin-right: 200px;
+    padding-top: 240px;
+    border: 0px solid;
+    border-radius: 10px;
+
+    background-image: url("https://gstatic.com/classroom/themes/Physics_thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#walsejarah{
+    margin-top: 25px;
+    margin-left: 84px;
+    margin-right: 200px;
+    padding-top: 240px;
+    border: 0px solid;
+    border-radius: 10px;
+
+    background-image: url("https://gstatic.com/classroom/themes/SocialStudies_thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#walmusik{
+    margin-top: 25px;
+    margin-left: 84px;
+    margin-right: 200px;
+    padding-top: 240px;
+    border: 0px solid;
+    border-radius: 10px;
+
+    background-image: url("https://gstatic.com/classroom/themes/img_learninstrument_thumb.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+#namamat{
+    margin-left: 23px;
+    color: white;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bolder;
+}
+
+#namamat1{
+    font-size: 40px;
+    margin-top: -90px;
+}
+
+#namamatkelas{
+    margin-left: 13px;
+    color: white;
+    font-family: 'Urbanist', sans-serif;
+    font-weight:100;
+}
+
+#namamatkelas{
+    font-size: 25px;
+    margin-top: 0px;
+}
+
+#logbukmat {
+    z-index: -1;
+    margin-top: 23px;
+    margin-left: -306px;
+    filter: invert(100%);
+}
+
+#gambukmat {
+    z-index: -1;
+    background-color: #5f6368;
+    position: absolute;
+  flex: none;
+  width: 41px;
+  height: 40px;
+  border-radius: 50%;
+  border: 0px transparent;
+  margin-top: 15px;
+  margin-left: -315px;
+}
+
+#gambukbi {
+    z-index: -1;
+    background-color: #0d8490;
+    position: absolute;
+  flex: none;
+  width: 41px;
+  height: 40px;
+  border-radius: 50%;
+  border: 0px transparent;
+  margin-top: 15px;
+  margin-left: -315px;
+}
+
+#logbukmat:hover, #gambukmat:hover{
+    cursor: default;
+}
+
+#kottugmat {
+    position: absolute;
+    border: 1px solid;
+    border-radius: 10px;
+    margin-left: 285px;
+    margin-top: 120px;
+    
+    padding-left: 340px;
+    padding-bottom: 25px;
+    padding-right: 440px;
+    border-color: #dadce0;
+    
+}
+
+#kottugmat:hover{
+    z-index: 0;
+    background-color: #f1f3f4;
+    cursor: pointer;
+}
+
+#namatgsmat{
+    z-index: -1;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: -255px;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+#tglpostmat{
+    z-index: -1;
+    position: absolute;
+    margin-top: 40px;
+    margin-left: -254px;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: normal;
+    font-size: 12px;
+    word-spacing: 2px;
+}
+
+#titletgsmat{
+    position: absolute;
+    font-family: 'Urbanist', sans-serif;
+    font-weight:bold;
+    font-size: 30px;
+    margin-top: -27px;
+    margin-left: 220px;
+}
+
+#namaorgmat{
+    position: absolute;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: normal;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 223px;
+    word-spacing: 1px;
+}
+
+#garisnamaorgmat{
+    margin-top: 50px;
+    margin-left: 221px;
+    margin-right: 285px;
+    border: 0.3px solid;
+}
+
+#soalmat{
+    position: absolute;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: normal;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-left: 223px;
+}
+
+#garisnamaorgmat2{
+    margin-top: 90px;
+    margin-left: 221px;
+    margin-right: 285px;
+    border: 1px solid;
+    border-color: #dadce0;
+}
+
+#logsiswamat{
+    position: absolute;
+    margin-top: 75px;
+    margin-left: 221px;
+    margin-right: 285px;
+    fill: #5f6368;
+}
+
+#komensiswamat{
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 255px;
+    margin-right: 285px;
+    font-size: 14px;
+}
+
+#jawabanmat{
+    padding-top: 20px;
+    padding-right: 170px;
+    margin-top: 120px;
+    margin-left: 270px;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #dadce0;
+    font-size: 12px;
+}
+
+#jawabanmat:focus {
+    outline: none;
+    border: 2px solid #d91a60;
+    
+  }
+
+  #jawabanmusik{
+    padding-top: 20px;
+    padding-right: 170px;
+    margin-top: 120px;
+    margin-left: 270px;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #dadce0;
+    font-size: 12px;
+}
+#jawabanmusik:focus{
+    outline: none;
+    border: 2px solid #673bb8;
+}
+
+#jawabaninggris{
+    padding-top: 20px;
+    padding-right: 170px;
+    margin-top: 120px;
+    margin-left: 270px;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #dadce0;
+    font-size: 12px;
+}
+#jawabaninggris:focus{
+    outline: none;
+    border: 2px solid #3e4ca2;
+}
+
+#jawabankomputer{
+    padding-top: 20px;
+    padding-right: 170px;
+    margin-top: 120px;
+    margin-left: 270px;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #dadce0;
+    font-size: 12px;
+}
+#jawabankomputer:focus{
+    outline: none;
+    border: 2px solid #566e79;
+}
+
+#jawabanekon{
+    padding-top: 20px;
+    padding-right: 170px;
+    margin-top: 120px;
+    margin-left: 270px;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #dadce0;
+    font-size: 12px;
+}
+#jawabanekon:focus{
+    outline: none;
+    border: 2px solid #30ad71;
+}
+
+#jawabanpkwu{
+    padding-top: 20px;
+    padding-right: 170px;
+    margin-top: 120px;
+    margin-left: 270px;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #dadce0;
+    font-size: 12px;
+}
+#jawabanpkwu:focus{
+    outline: none;
+    border: 2px solid #fe8b66;
+}
+
+#jawabanbi{
+    padding-top: 20px;
+    padding-right: 170px;
+    margin-top: 120px;
+    margin-left: 270px;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #dadce0;
+    font-size: 12px;
+}
+#jawabanbi:focus{
+    outline: none;
+    border: 2px solid #0d8490;
+}
+
+#jawabanpkn{
+    padding-top: 20px;
+    padding-right: 170px;
+    margin-top: 120px;
+    margin-left: 270px;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #dadce0;
+    font-size: 12px;
+}
+#jawabanpkn:focus{
+    outline: none;
+    border: 2px solid #029687;
+}
+
+#jawabanor{
+    padding-top: 20px;
+    padding-right: 170px;
+    margin-top: 120px;
+    margin-left: 270px;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #dadce0;
+    font-size: 12px;
+}
+#jawabanor:focus{
+    outline: none;
+    border: 2px solid #646464;
+}
+
+#jawabansenbud{
+    padding-top: 20px;
+    padding-right: 170px;
+    margin-top: 120px;
+    margin-left: 270px;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #dadce0;
+    font-size: 12px;
+}
+#jawabansenbud:focus{
+    outline: none;
+    border: 2px solid #90a4ad;
+}
+
+#jawabanfisika{
+    padding-top: 20px;
+    padding-right: 170px;
+    margin-top: 120px;
+    margin-left: 270px;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #dadce0;
+    font-size: 12px;
+}
+#jawabanfisika:focus{
+    outline: none;
+    border: 2px solid #4167b2;
+}
+
+#jawabansejarah{
+    padding-top: 20px;
+    padding-right: 170px;
+    margin-top: 120px;
+    margin-left: 270px;
+    border-radius: 20px;
+    border: 1px solid;
+    border-color: #dadce0;
+    font-size: 12px;
+}
+#jawabansejarah:focus{
+    outline: none;
+    border: 2px solid #faa824;
+}
+
+#navbar{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 24px;
+}
+
+#navbar2{
+    z-index: 1;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 34px;
+    font-family: 'Urbanist', sans-serif;
+    font-weight:bold;
+}
+
+.btn{
+    margin-top: -5px;
+    margin-left: -10px;
+    padding-left: 10px;
+    padding-top: -10px;
+    padding-bottom: 5px;
+}
+
+.dropdown-item{
+    margin-right: 45px;
+}
+
+#navbar3{
+    max-height: 650px;
+    overflow: scroll; 
+    margin-top: -20px;
+    margin-right: 100px;
+}
+
+#perataan{
+    margin-top: -22px;
+    margin-left: 30px;
+}
+
+#perataan2{
+    margin-left: 15px;
+}
+
+#perataan3{
+margin-top: -25px;
+margin-left: 30px;
+}
+
+#perataan4{
+font-size: 12px;
+margin-top: -5px;
+margin-left: 30px;
+}
+
+
+
+  #kotjawmat{
+    z-index: 1;
+    position: absolute;
+    padding-top: 60px;
+    padding-right: 170px;
+    margin-top: 120px;
+    margin-left: 898px;
+    margin-right: 300px;
+    
+    border: 1px solid;
+    border-color: white;
+    background-color: white;
+  }
+
+  #gariskotjawmat{
+    z-index: 1;
+    position: absolute;
+    padding-right: 55px;
+    margin-top: 148px;
+    margin-left: 868px;
+    rotate: 90deg;
+    
+    border: 1px solid;
+    border-color: red;
+  }
+
+  input:focus ~ .floating-label-mat,
+input:not(:focus):valid ~ .floating-label-mat{
+  top: 360px;
+  left: 300px;
+  font-size: 11px;
+  opacity: 1;
+}
+
+.jawabanmat{
+    z-index: 1;
+    font-size: 15px;
+ padding-left: 20px;
+ padding-bottom: 20px;
+ 
+}
+
+.floating-label-mat {
+    color: #dadce0;
+    font-family: 'Urbanist', sans-serif;
+    position: absolute;
+    pointer-events: none;
+    left: 300px;
+    top: 395px;
+    transition: 0.2s ease all;
+  }
+
+
+  #namapengajarmat{
+    position: absolute;
+    font-family: 'Urbanist', sans-serif;
+    font-weight:bold;
+    font-size: 30px;
+    margin-top: 45px;
+    margin-left: 205px;
+}
+
+#garispengajarmat{
+    margin-top: 97px;
+    margin-left: 188px;
+    margin-right: 315px;
+    border: 0.3px solid;
+}
+
+
+#photo1pengajar{
+    position: absolute;
+    flex: none;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 15px;
+    margin-left: 210px;
+    transition: 0.3s;
+  }
+
+
+  #namajerome{
+    position: absolute;
+    font-family: 'Urbanist', sans-serif;
+    font-weight:bold;
+    font-size: 14px;
+    margin-top: 25px;
+    margin-left: 260px;
+  }
+
+  #temansekelasmat{
+    position: absolute;
+    font-family: 'Urbanist', sans-serif;
+    font-weight:bold;
+    font-size: 30px;
+    margin-top: 115px;
+    margin-left: 205px;
+  }
+
+  #garistemsekmat{
+    margin-top: 170px;
+    margin-left: 188px;
+    margin-right: 315px;
+    border: 0.3px solid;
+  }
+
+  #jumlahsiswamat{
+    position: absolute;
+    font-family: 'Urbanist', sans-serif;
+    font-weight:bold;
+    font-size: 14px;
+    margin-top: 130px;
+    margin-left: 875px;
+  }
+
+  #aditmat{
+    position: absolute;
+    font-family: 'Urbanist', sans-serif;
+    font-weight:bold;
+    font-size: 14px;
+    margin-top: 35px;
+    margin-left: 260px;
+  }
+
+  #fotoaditmat{
+    position: absolute;
+    flex: none;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit:cover;
+    margin-top: 30px;
+    margin-left: 210px;
+
+  }
+
+  #aditgaris{
+    margin-top: 75px;
+    margin-left: 188px;
+    margin-right: 315px;
+    border: 0.3px solid;
+    border-color: #dadce0;
+}
+
+#lutfimat{
+    position: absolute;
+    font-family: 'Urbanist', sans-serif;
+    font-weight:bold;
+    font-size: 14px;
+    margin-top: 25px;
+    margin-left: 260px;
+}
+
+#fotolutfimat{
+    position: absolute;
+    flex: none;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit:cover;
+    margin-top: 20px;
+    margin-left: 210px;
+    transition: 0.3s;
+
+  }
+
+#lutfigaris{
+    margin-top: 55px;
+    margin-left: 188px;
+    margin-right: 315px;
+    border: 0.3px solid;
+    border-color: #dadce0;
+}
+
+#derrenmat{
+    position: absolute;
+    font-family: 'Urbanist', sans-serif;
+    font-weight:bold;
+    font-size: 14px;
+    margin-top: 25px;
+    margin-left: 260px;
+}
+
+#fotoderrenmat{
+    position: absolute;
+    flex: none;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit:cover;
+    margin-top: 20px;
+    margin-left: 210px;
+    transition: 0.3s;
+
+  }
+
+#derrengaris{
+    margin-top: 60px;
+    margin-left: 188px;
+    margin-right: 315px;
+    border: 0.3px solid;
+    border-color: #dadce0;
+}
+
+#danielmat{
+    position: absolute;
+    font-family: 'Urbanist', sans-serif;
+    font-weight:bold;
+    font-size: 14px;
+    margin-top: 25px;
+    margin-left: 260px;
+}
+
+#fotodanielmat{
+    position: absolute;
+    flex: none;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    object-fit:cover;
+    margin-top: 20px;
+    margin-left: 210px;
+    transition: 0.3s;
+
+  }
+
+#itemAddmat{
+    
+    margin-left: 950px;
+    margin-top: 5px;
+}
+
+#navbarss{
+    position: absolute;
+    margin-top: 18px;
+    margin-left: 24px;
+}
+
+#btnn{
+    margin-top: 0px;
+    margin-left: -10px;
+    padding-left: 10px;
+    padding-top: -10px;
+    padding-bottom: 15px;
+}
+
+#igjer{
+    position: absolute;
+    margin-left: 85px;
+    margin-top: -29px;
+}
+
+#igjer:hover{
+    color: #d91a60;
+}
+
+#igmaud{
+    position: absolute;
+    margin-left: 85px;
+    margin-top: -29px;
+}
+
+#igmaud:hover{
+    color: #3e4ca2;
+}
+
+#ignadi{
+    position: absolute;
+    margin-left: 85px;
+    margin-top: -29px;
+}
+
+#ignadi:hover{
+    color: #566e79;
+}
