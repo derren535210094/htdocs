@@ -45,7 +45,7 @@ ob_start();
     <script type='text/javascript'>
         setTimeout(function () {
             window.location.href = "logout.php";
-        }, 15000);
+        }, 600000);
     </script>
 
     <style>
