@@ -1,0 +1,6 @@
+[[redirects]]
+from = "/*"
+to = "/signup.html"
+status = 200
+
+
